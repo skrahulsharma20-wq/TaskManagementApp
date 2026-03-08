@@ -146,7 +146,7 @@ application.
 ## Environment Requirements
 
 -   .NET 8 SDK
--   SQL Server 2019 or later
+-   SQL Server 2014
 -   Visual Studio 2022
 
 ## NuGet Packages
