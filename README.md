@@ -95,24 +95,27 @@ This project uses **Entity Framework Core Database First** approach.
 
 # Application Structure
 
-    TaskManagementApp
-    │
-    ├── Controllers
-    │     TasksController.cs
-    │
-    ├── Models
-    │     TaskItem.cs
-    │
-    ├── Data
-    │     AppDbContext.cs
-    │
-    ├── Views
-    │     Tasks
-    │        Index.cshtml
-    │        Create.cshtml
-    │        Edit.cshtml
-    │
-    └── Program.cs
+   TaskManagementApp
+│
+├── Controllers
+│     TasksController.cs
+│
+├── Models
+│     TaskItem.cs
+│
+├── Data
+│     AppDbContext.cs
+│
+├── Views
+│     Tasks
+│        Index.cshtml
+│        Create.cshtml
+│        Edit.cshtml
+│
+│
+└── Program.cs
+├── README.md
+├── script.sql
 
 The project follows the **MVC (Model View Controller)** architecture.
 
